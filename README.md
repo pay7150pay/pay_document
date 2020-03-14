@@ -127,7 +127,7 @@ http://interface.gyoya.com/pay/h5_scan
 
 #### 请求地址
 
-http://interface.gyoya.com/query/order
+http://interface.gyoya.com/query/singleOrder
 
 #### 请求参数
 
